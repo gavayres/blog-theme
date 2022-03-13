@@ -1,4 +1,5 @@
 layout:default
+published: true
 title: Testing mathjax rendering
 
 # Here we go again 
