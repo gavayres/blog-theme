@@ -1,7 +1,4 @@
 <html>
-    {% if page.use_math %}
-    {% include mathjax.html %}
-    {% endif %}
 <head>
     <title>{{ page.title }}</title>
     <meta charset='UTF-8'>
@@ -14,8 +11,14 @@
     <link href='/css/blog.css' rel='stylesheet'/>
     <link href='/css/trac.css' rel='stylesheet'/>
     <link href='/css/markdown.css' rel='stylesheet'/>
+    {% if page.use_math %}
+    {% include mathjax.html %}
+    {% endif %}
 </head>
 <body>
+    {% if page.use_math %}
+    {% include mathjax.html %}
+    {% endif %}
 <div class='content'>
     {% include nav.html %}
     <div class='front-matter'>
