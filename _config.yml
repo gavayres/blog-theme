@@ -3,7 +3,6 @@ permalink: /blog/:year/:month/:day/:title/
 environment: prod
 url: "http://gavayres.github.io"  # Sitemap base URL.
 plugins:
-  - jekyll-scholar
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-katex
