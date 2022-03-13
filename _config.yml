@@ -6,3 +6,5 @@ url: "https://gavayres.github.io"  # Sitemap base URL.
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+kramdown:
+  math_engine: mathjax
