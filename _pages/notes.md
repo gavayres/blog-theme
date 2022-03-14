@@ -2,6 +2,7 @@
 permalink: /notes/
 title: Notes
 ---
+<link href='/css/blog.css' rel='stylesheet'/>
 <div id='notes' class='wrap'>
     <div id='intro'>
         <div class='quote'>
