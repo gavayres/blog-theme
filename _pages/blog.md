@@ -1,5 +1,5 @@
 ---
-permalink: /blog/
+permalink: /blog
 title: Blog
 ---
 Insert blogs here.
