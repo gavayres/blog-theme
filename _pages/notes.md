@@ -9,7 +9,7 @@ title: Notes
             <a href='https://www.goodreads.com/author/quotes/15248.Flann_O_Brien' target='_blank'>Flann O'Brien</a>
         </div>
     </div>
-    <div id='notes' class='section'>
+    <div id='study_notes' class='section'>
         {% for note in site.notes %}
             <div class='note-row'>
                 <p class='note-title'>
