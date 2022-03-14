@@ -9,3 +9,7 @@ plugins:
 kramdown:
   math_engine: mathjax
 include: [_pages]
+collections:
+  notes:
+    output: true
+    permalink: /:collection/:path/
