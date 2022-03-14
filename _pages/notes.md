@@ -2,7 +2,7 @@
 permalink: /notes/
 title: Notes
 ---
-<html>
+
 <head>
     <title>Gavin Ayres</title>
     <meta charset='UTF-8'>
@@ -58,4 +58,3 @@ title: Notes
         </div>
     </div>
 </body>
-</html>
