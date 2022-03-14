@@ -4,7 +4,6 @@ title: Notes
 ---
 
 <head>
-    <title>Gavin Ayres</title>
     <meta charset='UTF-8'>
     <meta content='width=device-width, initial-scale=1' name='viewport'/>
     <link rel='shortcut icon' href='/favicon.png?v=e' />
