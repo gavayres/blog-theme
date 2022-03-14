@@ -14,7 +14,7 @@ title: Notes
             <div class='note-row'>
                 <p class='note-title'>
                     <a href="{{ note.url }}">
-                        {{ post.title }}
+                        {{ note.title }}
                     </a>
                 </p>
                 <p class='note-date'>
