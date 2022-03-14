@@ -7,24 +7,6 @@ title: Notes
     <title>Gavin Ayres</title>
     <meta charset='UTF-8'>
     <meta content='width=device-width, initial-scale=1' name='viewport'/>
-
-    <meta name='description' content='Masters student at Southampton.'>
-    <!-- A decent browser will parse this fine:
-         https://webmasters.stackexchange.com/questions/92744. -->
-    <meta name='keywords' content='
-        machine learning,
-        statistical machine learning,
-        bayesian inference,
-        statistics,
-        computational statistics,
-        linear algebra,
-        numerical linear algebra,
-        statistical software,
-        deep learning,
-        computer science
-    '>
-    <meta name='author' content='Gavin Ayres'>
-
     <link rel='shortcut icon' href='/favicon.png?v=e' />
     <link href='/css/blog.css' rel='stylesheet'/>
 
