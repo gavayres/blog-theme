@@ -2,8 +2,6 @@
 permalink: /blog/
 title: Blog
 ---
-Insert blogs here.
-
 <div id='blog' class='wrap'>
     <div id='intro'>
         <div class='quote'>
