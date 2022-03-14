@@ -9,3 +9,4 @@ plugins:
 kramdown:
   math_engine: mathjax
 include: [_pages]
+include: [_notes]
