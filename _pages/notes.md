@@ -7,7 +7,7 @@ title: Notes
     <div id='intro'>
         <div class='quote'>
             <p>"Your talk," I said, "is surely the handiwork of wisdom because not one word of it do I understand."</p>
-            <a target='_blank'>Flann O'Brien</a>
+            <a target='_blank'>- Flann O'Brien</a>
         </div>
     </div>
     <div id='study_notes' class='section'>
