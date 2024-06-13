@@ -5,8 +5,8 @@ title: Blog
 <div id='blog' class='wrap'>
     <div id='intro'>
         <div class='quote'>
-            <p>I learned very early the difference between knowing the name of something and knowing something.</p>
-            <a href='https://en.wikiquote.org/wiki/Richard_Feynman' target='_blank'>Richard Feynman</a>
+            <p>You do not need a license to drive a sandwich.</p>
+            <b>- Spongebob Squarepants</b>
         </div>
     </div>
     <div id='posts' class='section'>

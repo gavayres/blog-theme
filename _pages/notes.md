@@ -2,20 +2,19 @@
 permalink: /notes/
 title: Notes
 ---
-
 <div id='notes' class='wrap'>
     <div id='intro'>
         <div class='quote'>
             <p>"Your talk," I said, "is surely the handiwork of wisdom because not one word of it do I understand."</p>
-            <a target='_blank'>- Flann O'Brien</a>
+            <b>- Flann O'Brien</b>
         </div>
     </div>
-    <div id='study_notes' class='section'>
+    <div id='study-notes' class='section'>
         {% for note in site.notes %}
             <div class='note-row'>
                 <p class='note-title'>
                     <a href="{{ note.url }}">
-                        {{ site.baseurl }}{{ note.title }}
+                        {{ note.title }}
                     </a>
                 </p>
                 <p class='note-date'>
